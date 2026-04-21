@@ -10,7 +10,7 @@
 - 1.5 years machinery maintenance at TGCore Pte. Ltd. / TH Tong Heng Machinery Sdn. Bhd.
 
 ### Active Learning:
-- Bridging the gap between hardware and software through DevOps practices, ROS2, etc.
+- Bridging the gap in the software stack by learning new programming languages, DevOps practices, ROS2, etc.
 - Digitising operations via IoT and Python automation
 
 
@@ -19,10 +19,11 @@
 ### Software
 | Area | Tools |
 |-----|------|
-| Programming | Python, C |
+| Programming | Python, C, C++ *(in progress)* |
 | DevOps | Git, Docker, GitLab CI/CD |
 | Frameworks / OS | Linux (Ubuntu), ROS2 *(in progress)* |
-| Data Analysis | SQL, Tableau |
+| Data Analysis | SQL, Tableau, Python |
+| Cloud | AWS *(in progress)* |
 
 ### Electrical / Electronics
 | Area | Tools |
@@ -34,7 +35,7 @@
 ### Mechanical / Hardware
 | Area | Tools |
 |-----|------|
-| CAD | Siemens NX, 3D Printing |
+| CAD | Siemens NX |
 | Manufacturing | Casting, Injection Molding, Machining, 3D Printing |
 | Analysis | FEA, GD&T, Tolerance Stack Analysis |
 | Mechanisms | Hydraulics, Bicycle Drivetrain |
