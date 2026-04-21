@@ -1,13 +1,13 @@
 # Hi, I'm Jun Yu.
 - Multi-disciplinary Mechatronics Engineer <br>
-- Nanyang Technological University, Singapore | First Class Honours
+- Nanyang Technological University, Singapore | Honours (Highest Distinction)
 
 ## About Me
 
 ### Work Experience: 
 
 - 3 years high-precision Product R&D at Shimano Singapore. <br>
-- 1.5 years Machinery Maintenance at TGCore Pte. Ltd. / TH Tong Heng Machinery Sdn. Bhd.
+- 1.5 years machinery maintenance at TGCore Pte. Ltd. / TH Tong Heng Machinery Sdn. Bhd.
 
 ### Active Learning:
 - Bridging the gap between hardware and software through DevOps practices, ROS2, etc.
@@ -29,7 +29,7 @@
 |-----|------|
 | Embedded Systems | Arduino |
 | Testing & Measurement | Multimeter, Soldering, Wiring |
-| Power Electronics | Li-ion Batteries, BMS, Motor Drivers |
+| Power Electronics | Li-ion Batteries, BMS |
 
 ### Mechanical / Hardware
 | Area | Tools |
@@ -46,4 +46,4 @@ IoT Fleet Simulator: A Python-based generator to simulate machinery telemetric d
 [Click here to visit the website](https://increasingly-skidproof-peggie.ngrok-free.dev) - currently only online when requested for!
 
 
-[Click here to visit the repo](https://gitlab.com/cjyportfolio/iot-fleet-simulator)
+[Click here to visit the repo](https://gitlab.com/cjyportfolio/iot-fleet-simulator) - repo in GitLab
