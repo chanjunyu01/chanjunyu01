@@ -7,11 +7,10 @@
 ### Work Experience: 
 
 - 3 years high-precision Product R&D at Shimano Singapore. <br>
-- 1.5 years machinery maintenance at TGCore Pte. Ltd. / TH Tong Heng Machinery Sdn. Bhd.
+- 1.5 years machinery maintenance at TGCore Pte. Ltd.
 
 ### Active Learning:
 - Bridging the gap in the software stack by learning new programming languages, DevOps practices, ROS2, etc.
-- Digitising operations via IoT and Python automation
 
 
 ## Skills
@@ -19,7 +18,7 @@
 ### Software
 | Area | Tools |
 |-----|------|
-| Programming | Python, C, C++ *(in progress)* |
+| Programming | Python, C++ *(in progress)* |
 | DevOps | Git, Docker, GitLab CI/CD |
 | Frameworks / OS | Linux (Ubuntu), ROS2 *(in progress)* |
 | Data Analysis | SQL, Tableau, Python |
@@ -37,7 +36,7 @@
 |-----|------|
 | CAD | Siemens NX |
 | Manufacturing | Casting, Injection Molding, Machining, 3D Printing |
-| Analysis | FEA, GD&T, Tolerance Stack Analysis |
+| Analysis | FEA, GD&T, Tolerance Stack Analysis, DFM/DFA, DFMEA, DoE |
 | Mechanisms | Hydraulics, Bicycle Drivetrain |
 
 
